@@ -1,0 +1,15 @@
+D:\ing.computacion\cuarto semestre\Lenguajes4\git\git\Git\Tarea2\Tarea2\obj\Debug\net6.0\Tarea2.csproj.AssemblyReference.cache
+D:\ing.computacion\cuarto semestre\Lenguajes4\git\git\Git\Tarea2\Tarea2\obj\Debug\net6.0\Tarea2.GeneratedMSBuildEditorConfig.editorconfig
+D:\ing.computacion\cuarto semestre\Lenguajes4\git\git\Git\Tarea2\Tarea2\obj\Debug\net6.0\Tarea2.AssemblyInfoInputs.cache
+D:\ing.computacion\cuarto semestre\Lenguajes4\git\git\Git\Tarea2\Tarea2\obj\Debug\net6.0\Tarea2.AssemblyInfo.cs
+D:\ing.computacion\cuarto semestre\Lenguajes4\git\git\Git\Tarea2\Tarea2\obj\Debug\net6.0\Tarea2.csproj.CoreCompileInputs.cache
+D:\ing.computacion\cuarto semestre\Lenguajes4\git\git\Git\Tarea2\Tarea2\bin\Debug\net6.0\Tarea2.exe
+D:\ing.computacion\cuarto semestre\Lenguajes4\git\git\Git\Tarea2\Tarea2\bin\Debug\net6.0\Tarea2.deps.json
+D:\ing.computacion\cuarto semestre\Lenguajes4\git\git\Git\Tarea2\Tarea2\bin\Debug\net6.0\Tarea2.runtimeconfig.json
+D:\ing.computacion\cuarto semestre\Lenguajes4\git\git\Git\Tarea2\Tarea2\bin\Debug\net6.0\Tarea2.dll
+D:\ing.computacion\cuarto semestre\Lenguajes4\git\git\Git\Tarea2\Tarea2\bin\Debug\net6.0\Tarea2.pdb
+D:\ing.computacion\cuarto semestre\Lenguajes4\git\git\Git\Tarea2\Tarea2\obj\Debug\net6.0\Tarea2.dll
+D:\ing.computacion\cuarto semestre\Lenguajes4\git\git\Git\Tarea2\Tarea2\obj\Debug\net6.0\refint\Tarea2.dll
+D:\ing.computacion\cuarto semestre\Lenguajes4\git\git\Git\Tarea2\Tarea2\obj\Debug\net6.0\Tarea2.pdb
+D:\ing.computacion\cuarto semestre\Lenguajes4\git\git\Git\Tarea2\Tarea2\obj\Debug\net6.0\Tarea2.genruntimeconfig.cache
+D:\ing.computacion\cuarto semestre\Lenguajes4\git\git\Git\Tarea2\Tarea2\obj\Debug\net6.0\ref\Tarea2.dll

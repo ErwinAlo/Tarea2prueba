@@ -1,8 +1,7 @@
  namespace Tarea2;
-
-     class Puerta{
+     public class Puerta{
         public string Color;
-        Puerta(){
+        public Puerta(){
            
             Color = "cafe";
         }
@@ -12,7 +11,7 @@
         }
         public void MostrarDatos(){
 
-               Console.WriteLine($"Soy una puerta mi color es: {Color}");
+               Console.WriteLine($"Soy una puerta mi color es: {Color }");
         }
      }
      
